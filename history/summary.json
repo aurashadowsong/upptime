@@ -4,18 +4,20 @@
     "url": "https://star.ddns-ip.net",
     "icon": "https://icons.duckduckgo.com/ip3/star.ddns-ip.net.ico",
     "slug": "windwalker",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.89%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
     "time": 585,
     "timeDay": 585,
     "timeWeek": 585,
     "timeMonth": 585,
     "timeYear": 585,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-14": 0
+    }
   },
   {
     "name": "grafana",

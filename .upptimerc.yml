@@ -3,8 +3,10 @@ owner: aurashadowsong
 repo: upptime
 
 sites:
+  - name: nightstar
+    url: https://night.star.ddns-ip.net
   - name: windwalker
-    url: https://star.ddns-ip.net
+    url: https://windwalker.serv00.net
   - name: grafana
     url: https://alien.birdriver.org
 

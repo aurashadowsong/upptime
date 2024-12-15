@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/star.ddns-ip.net.ico",
     "slug": "windwalker",
     "status": "up",
-    "uptime": "48.19%",
-    "uptimeDay": "48.19%",
-    "uptimeWeek": "48.19%",
-    "uptimeMonth": "48.19%",
-    "uptimeYear": "48.19%",
-    "time": 541,
-    "timeDay": 541,
-    "timeWeek": 541,
-    "timeMonth": 541,
-    "timeYear": 541,
+    "uptime": "95.91%",
+    "uptimeDay": "95.91%",
+    "uptimeWeek": "95.91%",
+    "uptimeMonth": "95.91%",
+    "uptimeYear": "95.91%",
+    "time": 551,
+    "timeDay": 551,
+    "timeWeek": 551,
+    "timeMonth": 551,
+    "timeYear": 551,
     "dailyMinutesDown": {
       "2024-12-14": 50
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 808,
-    "timeDay": 808,
-    "timeWeek": 808,
-    "timeMonth": 808,
-    "timeYear": 808,
+    "time": 895,
+    "timeDay": 895,
+    "timeWeek": 895,
+    "timeMonth": 895,
+    "timeYear": 895,
     "dailyMinutesDown": {}
   }
 ]

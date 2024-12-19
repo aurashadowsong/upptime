@@ -5,6 +5,8 @@ repo: upptime
 sites:
   - name: nightstar
     url: https://night.star.ddns-ip.net
+  - name: windwalker
+    url: https://windwalker.serv00.net
   - name: windserve
     url: https://windserve.serv00.net
   - name: grafana

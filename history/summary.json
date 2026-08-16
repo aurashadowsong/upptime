@@ -4,17 +4,17 @@
     "url": "https://night.star.ddns-ip.net",
     "icon": "https://icons.duckduckgo.com/ip3/night.star.ddns-ip.net.ico",
     "slug": "nightstar",
-    "status": "down",
+    "status": "up",
     "uptime": "4.04%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "40.14%",
+    "uptimeDay": "92.49%",
+    "uptimeWeek": "40.16%",
     "uptimeMonth": "7.33%",
     "uptimeYear": "0.77%",
     "time": 560,
-    "timeDay": 1009,
-    "timeWeek": 880,
-    "timeMonth": 458,
-    "timeYear": 532,
+    "timeDay": 849,
+    "timeWeek": 861,
+    "timeMonth": 465,
+    "timeYear": 533,
     "dailyMinutesDown": {
       "2026-08-13": 465,
       "2026-08-12": 1440,
@@ -378,7 +378,7 @@
       "2025-08-19": 1440,
       "2025-08-18": 1440,
       "2025-08-17": 1440,
-      "2026-08-16": 1
+      "2026-08-16": 108
     }
   },
   {
@@ -398,7 +398,7 @@
     "timeMonth": 686,
     "timeYear": 744,
     "dailyMinutesDown": {
-      "2026-08-16": 193,
+      "2026-08-16": 301,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
@@ -782,7 +782,7 @@
     "timeMonth": 604,
     "timeYear": 684,
     "dailyMinutesDown": {
-      "2026-08-16": 193,
+      "2026-08-16": 301,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
@@ -1166,7 +1166,7 @@
     "timeMonth": 594,
     "timeYear": 685,
     "dailyMinutesDown": {
-      "2026-08-16": 193,
+      "2026-08-16": 301,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
@@ -1550,7 +1550,7 @@
     "timeMonth": 615,
     "timeYear": 676,
     "dailyMinutesDown": {
-      "2026-08-16": 193,
+      "2026-08-16": 301,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
@@ -1927,14 +1927,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "0.31%",
+    "uptimeYear": "0.29%",
     "time": 687,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 327,
     "dailyMinutesDown": {
-      "2026-08-16": 193,
+      "2026-08-16": 301,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
       "2026-08-13": 1440,

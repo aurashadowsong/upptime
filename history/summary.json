@@ -4,12 +4,12 @@
     "url": "https://night.star.ddns-ip.net",
     "icon": "https://icons.duckduckgo.com/ip3/night.star.ddns-ip.net.ico",
     "slug": "nightstar",
-    "status": "up",
-    "uptime": "13.60%",
-    "uptimeDay": "11.15%",
-    "uptimeWeek": "85.13%",
-    "uptimeMonth": "96.58%",
-    "uptimeYear": "19.28%",
+    "status": "down",
+    "uptime": "13.62%",
+    "uptimeDay": "23.24%",
+    "uptimeWeek": "85.11%",
+    "uptimeMonth": "96.57%",
+    "uptimeYear": "19.31%",
     "time": 592,
     "timeDay": 754,
     "timeWeek": 876,
@@ -312,7 +312,7 @@
       "2025-10-24": 1440,
       "2026-08-16": 108,
       "2026-10-22": 419,
-      "2026-10-23": 1080
+      "2026-10-23": 1081
     }
   },
   {
@@ -332,7 +332,7 @@
     "timeMonth": 670,
     "timeYear": 731,
     "dailyMinutesDown": {
-      "2026-10-23": 1147,
+      "2026-10-23": 1323,
       "2026-10-22": 1440,
       "2026-10-21": 1440,
       "2026-10-20": 1440,
@@ -716,7 +716,7 @@
     "timeMonth": 615,
     "timeYear": 668,
     "dailyMinutesDown": {
-      "2026-10-23": 1147,
+      "2026-10-23": 1323,
       "2026-10-22": 1440,
       "2026-10-21": 1440,
       "2026-10-20": 1440,
@@ -1089,7 +1089,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/socrella.serv00.net.ico",
     "slug": "socrella",
     "status": "down",
-    "uptime": "14.76%",
+    "uptime": "14.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1100,7 +1100,7 @@
     "timeMonth": 629,
     "timeYear": 665,
     "dailyMinutesDown": {
-      "2026-10-23": 1147,
+      "2026-10-23": 1323,
       "2026-10-22": 1440,
       "2026-10-21": 1440,
       "2026-10-20": 1440,
@@ -1484,7 +1484,7 @@
     "timeMonth": 604,
     "timeYear": 658,
     "dailyMinutesDown": {
-      "2026-10-23": 1147,
+      "2026-10-23": 1323,
       "2026-10-22": 1440,
       "2026-10-21": 1440,
       "2026-10-20": 1440,
@@ -1857,7 +1857,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/alien.birdriver.org.ico",
     "slug": "grafana",
     "status": "down",
-    "uptime": "35.74%",
+    "uptime": "35.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1868,7 +1868,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-23": 1147,
+      "2026-10-23": 1323,
       "2026-10-22": 1440,
       "2026-10-21": 1440,
       "2026-10-20": 1440,

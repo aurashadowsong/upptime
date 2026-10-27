@@ -4,13 +4,13 @@
     "url": "https://night.star.ddns-ip.net",
     "icon": "https://icons.duckduckgo.com/ip3/night.star.ddns-ip.net.ico",
     "slug": "nightstar",
-    "status": "up",
-    "uptime": "13.66%",
-    "uptimeDay": "13.11%",
-    "uptimeWeek": "42.60%",
+    "status": "down",
+    "uptime": "13.68%",
+    "uptimeDay": "31.69%",
+    "uptimeWeek": "42.59%",
     "uptimeMonth": "86.79%",
-    "uptimeYear": "19.52%",
-    "time": 595,
+    "uptimeYear": "19.57%",
+    "time": 596,
     "timeDay": 602,
     "timeWeek": 807,
     "timeMonth": 888,
@@ -312,7 +312,7 @@
       "2026-10-24": 1294,
       "2026-10-25": 920,
       "2026-10-26": 1032,
-      "2026-10-27": 922
+      "2026-10-27": 923
     }
   },
   {
@@ -332,7 +332,7 @@
     "timeMonth": 655,
     "timeYear": 729,
     "dailyMinutesDown": {
-      "2026-10-27": 972,
+      "2026-10-27": 1242,
       "2026-10-26": 1440,
       "2026-10-25": 1440,
       "2026-10-24": 1440,
@@ -716,7 +716,7 @@
     "timeMonth": 607,
     "timeYear": 666,
     "dailyMinutesDown": {
-      "2026-10-27": 972,
+      "2026-10-27": 1242,
       "2026-10-26": 1440,
       "2026-10-25": 1440,
       "2026-10-24": 1440,
@@ -1100,7 +1100,7 @@
     "timeMonth": 631,
     "timeYear": 665,
     "dailyMinutesDown": {
-      "2026-10-27": 973,
+      "2026-10-27": 1242,
       "2026-10-26": 1440,
       "2026-10-25": 1440,
       "2026-10-24": 1440,
@@ -1484,7 +1484,7 @@
     "timeMonth": 617,
     "timeYear": 657,
     "dailyMinutesDown": {
-      "2026-10-27": 973,
+      "2026-10-27": 1242,
       "2026-10-26": 1440,
       "2026-10-25": 1440,
       "2026-10-24": 1440,
@@ -1857,7 +1857,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/alien.birdriver.org.ico",
     "slug": "grafana",
     "status": "down",
-    "uptime": "35.53%",
+    "uptime": "35.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1868,7 +1868,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-27": 973,
+      "2026-10-27": 1242,
       "2026-10-26": 1440,
       "2026-10-25": 1440,
       "2026-10-24": 1440,

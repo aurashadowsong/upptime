@@ -4,17 +4,17 @@
     "url": "https://night.star.ddns-ip.net",
     "icon": "https://icons.duckduckgo.com/ip3/night.star.ddns-ip.net.ico",
     "slug": "nightstar",
-    "status": "down",
+    "status": "up",
     "uptime": "13.71%",
-    "uptimeDay": "42.03%",
-    "uptimeWeek": "24.28%",
-    "uptimeMonth": "82.05%",
+    "uptimeDay": "22.77%",
+    "uptimeWeek": "22.72%",
+    "uptimeMonth": "81.04%",
     "uptimeYear": "19.71%",
-    "time": 598,
-    "timeDay": 797,
-    "timeWeek": 718,
-    "timeMonth": 890,
-    "timeYear": 574,
+    "time": 592,
+    "timeDay": 996,
+    "timeWeek": 729,
+    "timeMonth": 898,
+    "timeYear": 575,
     "dailyMinutesDown": {
       "2026-08-13": 465,
       "2026-08-12": 1440,
@@ -303,7 +303,6 @@
       "2025-11-02": 1440,
       "2025-11-01": 1440,
       "2025-10-31": 1440,
-      "2025-10-30": 1440,
       "2026-08-16": 108,
       "2026-10-22": 419,
       "2026-10-23": 1199,
@@ -312,7 +311,8 @@
       "2026-10-26": 1032,
       "2026-10-27": 1121,
       "2026-10-28": 1167,
-      "2026-10-29": 711
+      "2026-10-29": 993,
+      "2026-10-30": 159
     }
   },
   {
@@ -321,18 +321,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/shadowsong.serv00.net.ico",
     "slug": "shadowsong",
     "status": "down",
-    "uptime": "11.29%",
+    "uptime": "11.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 729,
-    "timeDay": 482,
+    "timeDay": 669,
     "timeWeek": 641,
-    "timeMonth": 652,
+    "timeMonth": 656,
     "timeYear": 730,
     "dailyMinutesDown": {
-      "2026-10-29": 1158,
+      "2026-10-30": 161,
+      "2026-10-29": 1440,
       "2026-10-28": 1440,
       "2026-10-27": 1440,
       "2026-10-26": 1440,
@@ -695,8 +696,7 @@
       "2025-11-03": 1440,
       "2025-11-02": 1440,
       "2025-11-01": 1440,
-      "2025-10-31": 1440,
-      "2025-10-30": 1440
+      "2025-10-31": 1440
     }
   },
   {
@@ -705,18 +705,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/lewisc93.serv00.net.ico",
     "slug": "lewisc93",
     "status": "down",
-    "uptime": "12.27%",
+    "uptime": "12.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 673,
-    "timeDay": 454,
-    "timeWeek": 588,
-    "timeMonth": 614,
-    "timeYear": 666,
+    "timeDay": 700,
+    "timeWeek": 596,
+    "timeMonth": 617,
+    "timeYear": 667,
     "dailyMinutesDown": {
-      "2026-10-29": 1158,
+      "2026-10-30": 161,
+      "2026-10-29": 1440,
       "2026-10-28": 1440,
       "2026-10-27": 1440,
       "2026-10-26": 1440,
@@ -1079,8 +1080,7 @@
       "2025-11-03": 1440,
       "2025-11-02": 1440,
       "2025-11-01": 1440,
-      "2025-10-31": 1440,
-      "2025-10-30": 1440
+      "2025-10-31": 1440
     }
   },
   {
@@ -1094,13 +1094,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 673,
-    "timeDay": 829,
-    "timeWeek": 718,
-    "timeMonth": 647,
+    "time": 674,
+    "timeDay": 717,
+    "timeWeek": 691,
+    "timeMonth": 656,
     "timeYear": 666,
     "dailyMinutesDown": {
-      "2026-10-29": 1158,
+      "2026-10-30": 161,
+      "2026-10-29": 1440,
       "2026-10-28": 1440,
       "2026-10-27": 1440,
       "2026-10-26": 1440,
@@ -1463,8 +1464,7 @@
       "2025-11-03": 1440,
       "2025-11-02": 1440,
       "2025-11-01": 1440,
-      "2025-10-31": 1440,
-      "2025-10-30": 1440
+      "2025-10-31": 1440
     }
   },
   {
@@ -1473,18 +1473,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/windserve.serv00.net.ico",
     "slug": "windserve",
     "status": "down",
-    "uptime": "16.25%",
+    "uptime": "16.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 667,
-    "timeDay": 858,
-    "timeWeek": 676,
-    "timeMonth": 623,
-    "timeYear": 657,
+    "timeDay": 700,
+    "timeWeek": 656,
+    "timeMonth": 626,
+    "timeYear": 658,
     "dailyMinutesDown": {
-      "2026-10-29": 1158,
+      "2026-10-30": 161,
+      "2026-10-29": 1440,
       "2026-10-28": 1440,
       "2026-10-27": 1440,
       "2026-10-26": 1440,
@@ -1847,8 +1848,7 @@
       "2025-11-03": 1440,
       "2025-11-02": 1440,
       "2025-11-01": 1440,
-      "2025-10-31": 1440,
-      "2025-10-30": 1440
+      "2025-10-31": 1440
     }
   },
   {
@@ -1857,18 +1857,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/alien.birdriver.org.ico",
     "slug": "grafana",
     "status": "down",
-    "uptime": "35.42%",
+    "uptime": "35.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 742,
+    "time": 748,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-29": 1158,
+      "2026-10-30": 161,
+      "2026-10-29": 1440,
       "2026-10-28": 1440,
       "2026-10-27": 1440,
       "2026-10-26": 1440,
@@ -2231,8 +2232,7 @@
       "2025-11-03": 1440,
       "2025-11-02": 1440,
       "2025-11-01": 1440,
-      "2025-10-31": 1440,
-      "2025-10-30": 1440
+      "2025-10-31": 1440
     }
   }
 ]

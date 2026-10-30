@@ -4,16 +4,16 @@
     "url": "https://night.star.ddns-ip.net",
     "icon": "https://icons.duckduckgo.com/ip3/night.star.ddns-ip.net.ico",
     "slug": "nightstar",
-    "status": "down",
+    "status": "up",
     "uptime": "13.80%",
-    "uptimeDay": "72.24%",
-    "uptimeWeek": "32.48%",
-    "uptimeMonth": "81.04%",
+    "uptimeDay": "72.33%",
+    "uptimeWeek": "31.30%",
+    "uptimeMonth": "80.57%",
     "uptimeYear": "19.91%",
     "time": 593,
-    "timeDay": 954,
-    "timeWeek": 735,
-    "timeMonth": 898,
+    "timeDay": 816,
+    "timeWeek": 730,
+    "timeMonth": 892,
     "timeYear": 575,
     "dailyMinutesDown": {
       "2026-08-13": 465,
@@ -312,7 +312,7 @@
       "2026-10-27": 1121,
       "2026-10-28": 1167,
       "2026-10-29": 993,
-      "2026-10-30": 160
+      "2026-10-30": 368
     }
   },
   {
@@ -321,7 +321,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/shadowsong.serv00.net.ico",
     "slug": "shadowsong",
     "status": "down",
-    "uptime": "11.27%",
+    "uptime": "11.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -332,7 +332,7 @@
     "timeMonth": 656,
     "timeYear": 730,
     "dailyMinutesDown": {
-      "2026-10-30": 1201,
+      "2026-10-30": 1410,
       "2026-10-29": 1440,
       "2026-10-28": 1440,
       "2026-10-27": 1440,
@@ -714,9 +714,9 @@
     "timeDay": 700,
     "timeWeek": 596,
     "timeMonth": 617,
-    "timeYear": 667,
+    "timeYear": 666,
     "dailyMinutesDown": {
-      "2026-10-30": 1201,
+      "2026-10-30": 1410,
       "2026-10-29": 1440,
       "2026-10-28": 1440,
       "2026-10-27": 1440,
@@ -1100,7 +1100,7 @@
     "timeMonth": 656,
     "timeYear": 666,
     "dailyMinutesDown": {
-      "2026-10-30": 1201,
+      "2026-10-30": 1410,
       "2026-10-29": 1440,
       "2026-10-28": 1440,
       "2026-10-27": 1440,
@@ -1484,7 +1484,7 @@
     "timeMonth": 626,
     "timeYear": 658,
     "dailyMinutesDown": {
-      "2026-10-30": 1201,
+      "2026-10-30": 1410,
       "2026-10-29": 1440,
       "2026-10-28": 1440,
       "2026-10-27": 1440,
@@ -1857,7 +1857,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/alien.birdriver.org.ico",
     "slug": "grafana",
     "status": "down",
-    "uptime": "35.37%",
+    "uptime": "35.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1868,7 +1868,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-30": 1201,
+      "2026-10-30": 1410,
       "2026-10-29": 1440,
       "2026-10-28": 1440,
       "2026-10-27": 1440,

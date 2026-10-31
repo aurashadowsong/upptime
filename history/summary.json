@@ -4,13 +4,13 @@
     "url": "https://night.star.ddns-ip.net",
     "icon": "https://icons.duckduckgo.com/ip3/night.star.ddns-ip.net.ico",
     "slug": "nightstar",
-    "status": "up",
-    "uptime": "13.82%",
-    "uptimeDay": "85.47%",
-    "uptimeWeek": "34.28%",
-    "uptimeMonth": "80.57%",
-    "uptimeYear": "19.97%",
-    "time": 594,
+    "status": "down",
+    "uptime": "13.84%",
+    "uptimeDay": "85.37%",
+    "uptimeWeek": "36.85%",
+    "uptimeMonth": "80.56%",
+    "uptimeYear": "20.02%",
+    "time": 595,
     "timeDay": 874,
     "timeWeek": 758,
     "timeMonth": 897,
@@ -311,7 +311,8 @@
       "2026-10-27": 1121,
       "2026-10-28": 1167,
       "2026-10-29": 993,
-      "2026-10-30": 368
+      "2026-10-30": 368,
+      "2026-10-31": 1
     }
   },
   {
@@ -331,7 +332,7 @@
     "timeMonth": 650,
     "timeYear": 729,
     "dailyMinutesDown": {
-      "2026-10-31": 271,
+      "2026-10-31": 532,
       "2026-10-30": 1440,
       "2026-10-29": 1440,
       "2026-10-28": 1440,
@@ -715,7 +716,7 @@
     "timeMonth": 616,
     "timeYear": 666,
     "dailyMinutesDown": {
-      "2026-10-31": 271,
+      "2026-10-31": 532,
       "2026-10-30": 1440,
       "2026-10-29": 1440,
       "2026-10-28": 1440,
@@ -1099,7 +1100,7 @@
     "timeMonth": 654,
     "timeYear": 666,
     "dailyMinutesDown": {
-      "2026-10-31": 271,
+      "2026-10-31": 532,
       "2026-10-30": 1440,
       "2026-10-29": 1440,
       "2026-10-28": 1440,
@@ -1472,7 +1473,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/windserve.serv00.net.ico",
     "slug": "windserve",
     "status": "down",
-    "uptime": "16.22%",
+    "uptime": "16.21%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1483,7 +1484,7 @@
     "timeMonth": 625,
     "timeYear": 658,
     "dailyMinutesDown": {
-      "2026-10-31": 271,
+      "2026-10-31": 532,
       "2026-10-30": 1440,
       "2026-10-29": 1440,
       "2026-10-28": 1440,
@@ -1856,7 +1857,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/alien.birdriver.org.ico",
     "slug": "grafana",
     "status": "down",
-    "uptime": "35.35%",
+    "uptime": "35.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1867,7 +1868,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-31": 271,
+      "2026-10-31": 532,
       "2026-10-30": 1440,
       "2026-10-29": 1440,
       "2026-10-28": 1440,

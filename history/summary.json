@@ -4,14 +4,14 @@
     "url": "https://night.star.ddns-ip.net",
     "icon": "https://icons.duckduckgo.com/ip3/night.star.ddns-ip.net.ico",
     "slug": "nightstar",
-    "status": "up",
-    "uptime": "14.04%",
-    "uptimeDay": "68.20%",
-    "uptimeWeek": "44.81%",
+    "status": "down",
+    "uptime": "14.06%",
+    "uptimeDay": "80.26%",
+    "uptimeWeek": "44.79%",
     "uptimeMonth": "68.34%",
-    "uptimeYear": "20.60%",
-    "time": 610,
-    "timeDay": 673,
+    "uptimeYear": "20.65%",
+    "time": 611,
+    "timeDay": 676,
     "timeWeek": 810,
     "timeMonth": 887,
     "timeYear": 581,
@@ -312,7 +312,7 @@
       "2026-11-02": 1440,
       "2026-11-05": 614,
       "2026-11-04": 1363,
-      "2026-11-06": 177
+      "2026-11-06": 178
     }
   },
   {
@@ -321,7 +321,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/shadowsong.serv00.net.ico",
     "slug": "shadowsong",
     "status": "down",
-    "uptime": "11.16%",
+    "uptime": "11.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -332,7 +332,7 @@
     "timeMonth": 647,
     "timeYear": 726,
     "dailyMinutesDown": {
-      "2026-11-06": 333,
+      "2026-11-06": 577,
       "2026-11-05": 1440,
       "2026-11-04": 1440,
       "2026-11-03": 1440,
@@ -716,7 +716,7 @@
     "timeMonth": 632,
     "timeYear": 665,
     "dailyMinutesDown": {
-      "2026-11-06": 333,
+      "2026-11-06": 577,
       "2026-11-05": 1440,
       "2026-11-04": 1440,
       "2026-11-03": 1440,
@@ -1100,7 +1100,7 @@
     "timeMonth": 658,
     "timeYear": 663,
     "dailyMinutesDown": {
-      "2026-11-06": 333,
+      "2026-11-06": 577,
       "2026-11-05": 1440,
       "2026-11-04": 1440,
       "2026-11-03": 1440,
@@ -1484,7 +1484,7 @@
     "timeMonth": 621,
     "timeYear": 654,
     "dailyMinutesDown": {
-      "2026-11-06": 333,
+      "2026-11-06": 577,
       "2026-11-05": 1440,
       "2026-11-04": 1440,
       "2026-11-03": 1440,
@@ -1857,7 +1857,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/alien.birdriver.org.ico",
     "slug": "grafana",
     "status": "down",
-    "uptime": "35.04%",
+    "uptime": "35.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1868,7 +1868,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-06": 333,
+      "2026-11-06": 577,
       "2026-11-05": 1440,
       "2026-11-04": 1440,
       "2026-11-03": 1440,

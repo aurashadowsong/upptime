@@ -5,10 +5,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/night.star.ddns-ip.net.ico",
     "slug": "nightstar",
     "status": "down",
-    "uptime": "14.21%",
+    "uptime": "14.20%",
     "uptimeDay": "56.79%",
     "uptimeWeek": "19.03%",
-    "uptimeMonth": "41.22%",
+    "uptimeMonth": "40.94%",
     "uptimeYear": "21.35%",
     "time": 613,
     "timeDay": 599,
@@ -312,7 +312,7 @@
       "2026-11-11": 1440,
       "2026-11-15": 1138,
       "2026-11-16": 709,
-      "2026-11-17": 57
+      "2026-11-17": 182
     }
   },
   {
@@ -332,7 +332,7 @@
     "timeMonth": 634,
     "timeYear": 722,
     "dailyMinutesDown": {
-      "2026-11-17": 294,
+      "2026-11-17": 418,
       "2026-11-16": 1440,
       "2026-11-15": 1440,
       "2026-11-14": 1440,
@@ -716,7 +716,7 @@
     "timeMonth": 604,
     "timeYear": 661,
     "dailyMinutesDown": {
-      "2026-11-17": 294,
+      "2026-11-17": 418,
       "2026-11-16": 1440,
       "2026-11-15": 1440,
       "2026-11-14": 1440,
@@ -1100,7 +1100,7 @@
     "timeMonth": 615,
     "timeYear": 659,
     "dailyMinutesDown": {
-      "2026-11-17": 294,
+      "2026-11-17": 418,
       "2026-11-16": 1440,
       "2026-11-15": 1440,
       "2026-11-14": 1440,
@@ -1484,7 +1484,7 @@
     "timeMonth": 611,
     "timeYear": 650,
     "dailyMinutesDown": {
-      "2026-11-17": 294,
+      "2026-11-17": 418,
       "2026-11-16": 1440,
       "2026-11-15": 1440,
       "2026-11-14": 1440,
@@ -1857,7 +1857,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/alien.birdriver.org.ico",
     "slug": "grafana",
     "status": "down",
-    "uptime": "34.50%",
+    "uptime": "34.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1868,7 +1868,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-17": 294,
+      "2026-11-17": 418,
       "2026-11-16": 1440,
       "2026-11-15": 1440,
       "2026-11-14": 1440,

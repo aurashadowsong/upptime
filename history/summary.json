@@ -4,16 +4,16 @@
     "url": "https://night.star.ddns-ip.net",
     "icon": "https://icons.duckduckgo.com/ip3/night.star.ddns-ip.net.ico",
     "slug": "nightstar",
-    "status": "down",
+    "status": "up",
     "uptime": "14.39%",
-    "uptimeDay": "52.45%",
-    "uptimeWeek": "41.02%",
-    "uptimeMonth": "30.67%",
+    "uptimeDay": "52.55%",
+    "uptimeWeek": "41.03%",
+    "uptimeMonth": "30.19%",
     "uptimeYear": "21.92%",
     "time": 612,
-    "timeDay": 748,
-    "timeWeek": 1024,
-    "timeMonth": 830,
+    "timeDay": 715,
+    "timeWeek": 986,
+    "timeMonth": 825,
     "timeYear": 587,
     "dailyMinutesDown": {
       "2026-08-13": 465,
@@ -312,7 +312,7 @@
       "2026-11-20": 591,
       "2026-11-19": 1207,
       "2026-11-21": 1183,
-      "2026-11-22": 220
+      "2026-11-22": 640
     }
   },
   {
@@ -332,7 +332,7 @@
     "timeMonth": 656,
     "timeYear": 721,
     "dailyMinutesDown": {
-      "2026-11-22": 719,
+      "2026-11-22": 1140,
       "2026-11-21": 1440,
       "2026-11-20": 1440,
       "2026-11-19": 1440,
@@ -705,7 +705,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/lewisc93.serv00.net.ico",
     "slug": "lewisc93",
     "status": "down",
-    "uptime": "11.84%",
+    "uptime": "11.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -716,7 +716,7 @@
     "timeMonth": 611,
     "timeYear": 660,
     "dailyMinutesDown": {
-      "2026-11-22": 719,
+      "2026-11-22": 1140,
       "2026-11-21": 1440,
       "2026-11-20": 1440,
       "2026-11-19": 1440,
@@ -1100,7 +1100,7 @@
     "timeMonth": 624,
     "timeYear": 656,
     "dailyMinutesDown": {
-      "2026-11-22": 719,
+      "2026-11-22": 1140,
       "2026-11-21": 1440,
       "2026-11-20": 1440,
       "2026-11-19": 1440,
@@ -1484,7 +1484,7 @@
     "timeMonth": 600,
     "timeYear": 648,
     "dailyMinutesDown": {
-      "2026-11-22": 719,
+      "2026-11-22": 1140,
       "2026-11-21": 1440,
       "2026-11-20": 1440,
       "2026-11-19": 1440,
@@ -1857,7 +1857,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/alien.birdriver.org.ico",
     "slug": "grafana",
     "status": "down",
-    "uptime": "34.24%",
+    "uptime": "34.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1868,7 +1868,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-22": 719,
+      "2026-11-22": 1140,
       "2026-11-21": 1440,
       "2026-11-20": 1440,
       "2026-11-19": 1440,

@@ -4,17 +4,17 @@
     "url": "https://night.star.ddns-ip.net",
     "icon": "https://icons.duckduckgo.com/ip3/night.star.ddns-ip.net.ico",
     "slug": "nightstar",
-    "status": "down",
+    "status": "up",
     "uptime": "14.43%",
-    "uptimeDay": "69.58%",
-    "uptimeWeek": "42.89%",
+    "uptimeDay": "60.53%",
+    "uptimeWeek": "42.90%",
     "uptimeMonth": "30.98%",
     "uptimeYear": "22.02%",
-    "time": 612,
-    "timeDay": 747,
-    "timeWeek": 842,
-    "timeMonth": 825,
-    "timeYear": 588,
+    "time": 613,
+    "timeDay": 860,
+    "timeWeek": 865,
+    "timeMonth": 832,
+    "timeYear": 589,
     "dailyMinutesDown": {
       "2026-08-13": 465,
       "2026-08-12": 1440,
@@ -312,7 +312,7 @@
       "2026-11-19": 1207,
       "2026-11-21": 1183,
       "2026-11-22": 640,
-      "2026-11-23": 1
+      "2026-11-23": 148
     }
   },
   {
@@ -332,7 +332,7 @@
     "timeMonth": 652,
     "timeYear": 721,
     "dailyMinutesDown": {
-      "2026-11-23": 203,
+      "2026-11-23": 351,
       "2026-11-22": 1440,
       "2026-11-21": 1440,
       "2026-11-20": 1440,
@@ -716,7 +716,7 @@
     "timeMonth": 613,
     "timeYear": 660,
     "dailyMinutesDown": {
-      "2026-11-23": 203,
+      "2026-11-23": 351,
       "2026-11-22": 1440,
       "2026-11-21": 1440,
       "2026-11-20": 1440,
@@ -1100,7 +1100,7 @@
     "timeMonth": 612,
     "timeYear": 656,
     "dailyMinutesDown": {
-      "2026-11-23": 203,
+      "2026-11-23": 351,
       "2026-11-22": 1440,
       "2026-11-21": 1440,
       "2026-11-20": 1440,
@@ -1484,7 +1484,7 @@
     "timeMonth": 590,
     "timeYear": 648,
     "dailyMinutesDown": {
-      "2026-11-23": 203,
+      "2026-11-23": 351,
       "2026-11-22": 1440,
       "2026-11-21": 1440,
       "2026-11-20": 1440,
@@ -1857,7 +1857,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/alien.birdriver.org.ico",
     "slug": "grafana",
     "status": "down",
-    "uptime": "34.21%",
+    "uptime": "34.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1868,7 +1868,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-23": 203,
+      "2026-11-23": 351,
       "2026-11-22": 1440,
       "2026-11-21": 1440,
       "2026-11-20": 1440,
